@@ -1,0 +1,21 @@
+# API klíč — nikdy do gitu
+.env
+
+# SQLite databáze s historií — lokální, není potřeba verzovat
+history.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store

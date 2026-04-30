@@ -15,7 +15,7 @@ Pokud ještě nemáš, stáhni Python 3.10 nebo novější z [python.org](https:
 ### 2. Otevři terminál ve složce s projektem
 
 ```bash
-cd "/Users/tomas.velech/Text creator/banner-generator"
+cd "/cesta/ke/složce/banner-generator"
 ```
 
 ### 3. (Doporučeno) Vytvoř virtuální prostředí
